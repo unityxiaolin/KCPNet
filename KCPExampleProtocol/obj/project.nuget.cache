@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vclYpwZ83ojSvdexUaBdoMBXUR5fR1J07H6wRmjZvujLnWfNwa1Qc3QHEkj4W+eApwwxvULJ7Vlm09tXSi8IQQ==",
+  "success": true,
+  "projectFilePath": "D:\\UnityProjects\\XLTools\\KCPNet\\KCPExampleProtocol\\KCPExampleProtocol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\kcp\\2.0.0\\kcp.2.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

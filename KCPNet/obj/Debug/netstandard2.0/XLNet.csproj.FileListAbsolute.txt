@@ -1,0 +1,9 @@
+D:\UnityProjects\XLTools\KCPNet\KCPNet\obj\Debug\netstandard2.0\XLNet.AssemblyInfoInputs.cache
+D:\UnityProjects\XLTools\KCPNet\KCPNet\obj\Debug\netstandard2.0\XLNet.AssemblyInfo.cs
+D:\UnityProjects\XLTools\KCPNet\KCPNet\obj\Debug\netstandard2.0\XLNet.csproj.CoreCompileInputs.cache
+D:\UnityProjects\XLTools\KCPNet\KCPNet\bin\Debug\netstandard2.0\XLNet.deps.json
+D:\UnityProjects\XLTools\KCPNet\KCPNet\bin\Debug\netstandard2.0\XLNet.dll
+D:\UnityProjects\XLTools\KCPNet\KCPNet\bin\Debug\netstandard2.0\XLNet.pdb
+D:\UnityProjects\XLTools\KCPNet\KCPNet\obj\Debug\netstandard2.0\XLNet.dll
+D:\UnityProjects\XLTools\KCPNet\KCPNet\obj\Debug\netstandard2.0\XLNet.pdb
+D:\UnityProjects\XLTools\KCPNet\KCPNet\obj\Debug\netstandard2.0\XLNet.csprojAssemblyReference.cache

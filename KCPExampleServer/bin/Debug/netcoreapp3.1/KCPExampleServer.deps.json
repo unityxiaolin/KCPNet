@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KCPExampleServer/1.0.0": {
+        "dependencies": {
+          "KCPExampleProtocol": "1.0.0"
+        },
+        "runtime": {
+          "KCPExampleServer.dll": {}
+        }
+      },
+      "Kcp/2.0.0": {
+        "dependencies": {
+          "System.Memory": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Kcp.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "System.Memory/4.5.2": {},
+      "KCPExampleProtocol/1.0.0": {
+        "dependencies": {
+          "KCPNet": "1.0.0"
+        },
+        "runtime": {
+          "KCPExampleProtocol.dll": {}
+        }
+      },
+      "KCPNet/1.0.0": {
+        "dependencies": {
+          "Kcp": "2.0.0"
+        },
+        "runtime": {
+          "KCPNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KCPExampleServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kcp/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mL175rnD6i5yV9L0zeDll04GUKjEsER1NnxJzrBqA+SPNiLX1HNmTSWFgFDit8Vdjvim3r6oCagQ9ad1yn6mew==",
+      "path": "kcp/2.0.0",
+      "hashPath": "kcp.2.0.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fvq1GNmUFwbKv+aLVYYdgu/+gc8Nu9oFujOxIjPrsf+meis9JBzTPDL6aP/eeGOz9yPj6rRLUbOjKMpsMEWpNg==",
+      "path": "system.memory/4.5.2",
+      "hashPath": "system.memory.4.5.2.nupkg.sha512"
+    },
+    "KCPExampleProtocol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KCPNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,129 @@
+[ColorLog]### 02:17:28-903  ThreadID:1 >>> Client Start ...
+[ColorLog]### 02:17:28-928  ThreadID:5 >>> udp请求分配的sid:1
+[ColorLog]### 02:17:31-932  ThreadID:7 >>> 连接服务器成功.
+[ColorLog]### 02:17:36-947  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:17:37-119  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:17:41-950  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:17:42-014  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:17:46-952  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:17:47-029  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:17:51-962  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:17:52-026  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:17:56-972  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:17:57-034  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:01-973  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:02-049  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:06-982  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:07-061  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:11-986  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:12-065  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:16-993  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:17-056  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:22-001  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:22-065  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:27-004  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:27-068  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:30-621  ThreadID:4 >>> sid:1, receiveByServer:666
+[ColorLog]### 02:18:32-013  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:32-077  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:37-021  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:37-085  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:42-036  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:42-100  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:47-051  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:47-114  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:52-057  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:52-120  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:18:57-070  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:18:57-116  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:02-083  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:02-145  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:07-102  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:07-165  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:12-104  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:12-166  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:16-264  ThreadID:3 >>> sid:1, receiveByServer:111
+[ColorLog]### 02:19:17-113  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:17-175  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:22-114  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:22-177  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:24-088  ThreadID:3 >>> sid:1, receiveByServer:222
+[ColorLog]### 02:19:27-125  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:27-203  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:32-136  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:32-199  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:37-224  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:37-303  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:42-231  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:42-293  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:47-241  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:47-321  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:52-255  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:52-320  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:19:57-260  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:19:57-322  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:20:02-269  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:02-332  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:20:07-275  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:07-336  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:20:12-280  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:12-343  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:20:17-292  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:17-355  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:20:22-297  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:22-377  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:20:27-306  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:27-365  ThreadID:4 >>> sid:1, receiveByServer:
+[ColorLog]### 02:20:32-310  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:32-388  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:20:37-325  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:37-403  ThreadID:3 >>> sid:1, receiveByServer:
+[ColorLog]### 02:20:42-341  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:47-357  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:52-360  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:20:57-363  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:02-371  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:07-373  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:12-384  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:17-394  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:22-399  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:27-409  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:32-424  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:37-433  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:42-436  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:47-450  ThreadID:3 >>> 客户端发送心跳包
+[ColorLog]### 02:21:52-464  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:21:57-478  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:02-484  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:07-490  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:12-508  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:17-517  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:22-531  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:27-542  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:32-548  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:37-563  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:42-577  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:47-590  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:52-604  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:22:57-623  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:23:02-850  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:23:15-864  ThreadID:7 >>> 客户端发送心跳包
+[ColorLog]### 02:23:20-880  ThreadID:7 >>> 客户端发送心跳包
+[Warning]### 02:23:23-197  ThreadID:1 >>> 客户端断开连接，sid:1
+[Warning]### 02:23:23-217  ThreadID:5 >>> 客户端udp接收数据异常:System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+   在 System.Net.Sockets.Socket.EndReceiveFrom(IAsyncResult asyncResult, EndPoint& endPoint)
+   在 System.Net.Sockets.UdpClient.EndReceive(IAsyncResult asyncResult, IPEndPoint& remoteEP)
+   在 System.Net.Sockets.UdpClient.<ReceiveAsync>b__64_1(IAsyncResult ar)
+   在 System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 XLNet.KCPNet`2.<ClientReceive>d__13.MoveNext() 位置 D:\UnityProjects\XLTools\KCPNet\KCPNet\KCPNet.cs:行号 183
+[ColorLog]### 02:23:23-218  ThreadID:5 >>> 客户端接收数据的任务已经取消
+[ColorLog]### 02:23:23-225  ThreadID:3 >>> session更新任务已经取消
+[Warning]### 02:23:25-897  ThreadID:3 >>> 没有连接，不能发送消息
+[ColorLog]### 02:23:25-902  ThreadID:3 >>> 客户端发送心跳包
+[Warning]### 02:23:30-924  ThreadID:4 >>> 没有连接，不能发送消息
+[ColorLog]### 02:23:30-932  ThreadID:4 >>> 客户端发送心跳包

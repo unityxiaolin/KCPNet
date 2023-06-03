@@ -1,0 +1,13 @@
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\bin\Debug\netstandard2.0\KCPExampleProtocol.deps.json
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\bin\Debug\netstandard2.0\KCPExampleProtocol.dll
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\bin\Debug\netstandard2.0\KCPExampleProtocol.pdb
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\bin\Debug\netstandard2.0\KCPNet.dll
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\bin\Debug\netstandard2.0\KCPNet.pdb
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\obj\Debug\netstandard2.0\KCPExampleProtocol.csproj.AssemblyReference.cache
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\obj\Debug\netstandard2.0\KCPExampleProtocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\obj\Debug\netstandard2.0\KCPExampleProtocol.AssemblyInfoInputs.cache
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\obj\Debug\netstandard2.0\KCPExampleProtocol.AssemblyInfo.cs
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\obj\Debug\netstandard2.0\KCPExampleProtocol.csproj.CoreCompileInputs.cache
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\obj\Debug\netstandard2.0\KCPExampleProtocol.csproj.CopyComplete
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\obj\Debug\netstandard2.0\KCPExampleProtocol.dll
+D:\UnityProjects\XLTools\KCPNet\KCPExampleProtocol\obj\Debug\netstandard2.0\KCPExampleProtocol.pdb
